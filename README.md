@@ -125,13 +125,9 @@ npx hint .
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
 ```
- -->
+Netilfy or Github pages.
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

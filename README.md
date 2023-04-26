@@ -82,10 +82,12 @@
 
 In order to run this project you need:
 
-- GIT
-- VSCode
-- Node
-- Chrome or any browser
+<ul>
+    <li><a href="https://git-scm.com/downloads">Git</a></li>
+    <li><a href="https://code.visualstudio.com/">VS Code</a></li>
+    <li><a href="https://nodejs.org/en/download/package-manager">Node</a></li>
+    <li>Chrome or any browser</li>
+</ul>
 
 ### Setup
 
@@ -182,6 +184,6 @@ I would like to thank Microverse and my coding partners for being my navigators 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

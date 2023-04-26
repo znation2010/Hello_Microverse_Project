@@ -47,12 +47,20 @@
 
 > The Tech stack that were used in this project are HTML & CSS.
 
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML & CSS</a></li>
+  </ul>
+</details>
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 - Validates whether there is Error in the HTML file
 - Checks for errors in the Stylesheet using the linters
+- Github workflow linter(HTML+CSS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,6 +77,61 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Anyone can use this project to learn how to setup linter for HTML-CSS files.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- GIT
+- VSCode
+- Node
+- Chrome or any browser
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```
+cd Hello_Microverse_Project
+git clone https://github.com/znation2010/Hello_Microverse_Project.git
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  cd Hello_Microverse_Project
+  npm i
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```
+  use live server extension on VSCode
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```
+npx hint .
+```
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
